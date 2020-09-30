@@ -23,3 +23,5 @@ but Hold on i tested this solution in more than 1000 devices including emulators
 it is working in all devices as my experienc.(pls ping me if not works for your device).
 i currently using this solution with my app FTP Server playstore link is
 https://play.google.com/store/apps/details?id=com.hnc.ftpserver
+
+this solution also working with folder or files that contained in MemoryCard or OTG drive.
