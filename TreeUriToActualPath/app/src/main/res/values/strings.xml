@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TreeUriToActualPath</string>
+    <string name="pick_directory">Pick Directory</string>
+</resources>
